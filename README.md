@@ -1,20 +1,27 @@
-# S&P-500-Stock-Analysis
+# S&P500 Tech Giants Stock Analysis
 
 ## Introduction
-This project analyzes daily stock price changes for four major tech giants - Amazon, Google, Microsoft, and Apple, which are part of the S&P 500. The analysis includes change in stock prices, moving averages, daily returns, and resampling analysis on a monthly, quarterly, and yearly basis, as well as multivariate analysis.
 
-## Data Collection
-The dataset used in this project comprises the daily change in stock prices of S&P 500 companies. For the scope of this project, we're focusing on Amazon, Google, Microsoft, and Apple.
+This repository presents a thorough analysis of the daily stock price changes of four prominent tech companies within the S&P 500 index - Amazon, Google, Microsoft, and Apple. Our study uses a dataset representing the everyday fluctuations in the stock prices of these companies to gain insights into their financial performance.
 
-## Analysis
-This project provides an extensive analysis of the selected tech giants' stock prices, including:
+### Dataset Information
 
-### 1. Change in Price of Stocks: This will analyze the fluctuations in the stock prices of the selected companies.
+The dataset contains detailed information on the daily change in stock prices for S&P 500 companies, specifically focusing on Amazon, Google, Microsoft, and Apple for the scope of this analysis. This information offers a rich ground to conduct financial time series analysis and understand the dynamics of these market-leading companies.
 
-### 2. Moving Average of Stocks: It analyzes the moving averages of stocks to understand their general trend over a specific period.
+### Project Objectives
 
-### 3. Daily Returns: An analysis of daily returns will help understand the volatility of the stocks and identify any patterns or anomalies.
+The analysis carried out through this project aims to accomplish the following objectives:
 
-### 4. Resampling Analysis: The stocks will be resampled and analyzed on a monthly, quarterly, and yearly basis to provide a comprehensive view of their performance.
+1. **Analyze Change in Price of Stocks:** Understand the fluctuations in the stock prices of the selected companies on a day-to-day basis.
 
-### 5. Multivariate Analysis: It will examine the relationship between the stock prices of the different companies and how they impact each other.
+2. **Analyze Moving Average of Stocks:** Study the moving averages of stocks to identify any evident trends over a specified period of time.
+
+3. **Analyze Daily Returns:** Conduct an analysis of the daily returns to understand the volatility and the risk-reward profile of the stocks.
+
+4. **Perform Resampling Analysis:** Undertake a resampling analysis of the stocks on a monthly, quarterly, and yearly basis to present a broader view of their performance over different periods.
+
+5. **Perform Multi-Variate Analysis:** Explore the relationships between the stock prices of different companies and their interactions with each other, providing insights into how one company's performance might affect another's.
+
+### Applications and Implications
+
+The results of this analysis can aid investors, financial analysts, and anyone interested in stock market trends in making informed decisions. Moreover, it provides a detailed understanding of the performance and trends of the leading tech companies in the S&P 500, which can be crucial for investment and trading purposes.
